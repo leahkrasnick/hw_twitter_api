@@ -2,7 +2,7 @@ from requests_oauthlib import OAuth1
 import json
 import sys
 import requests
-import secret_data # file that contains OAuth credentials
+import secret_data1 # file that contains OAuth credentials
 # import nltk # uncomment line after you install nltk
 
 ## SI 206 - HW
